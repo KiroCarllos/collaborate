@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ASIC desc="unsupported asics list of EG or NI">
+<did id="6700">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>	
+</did>
+<did id="6701">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6702">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6703">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6704">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6705">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6706">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6707">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6708">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6709">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6718">
+<MName>AMD Radeon HD 6900 Series</MName>
+</did>
+<did id="6719">
+<MName>AMD Radeon HD 6900 Series</MName>
+</did>
+<did id="671C">
+<MName>AMD Radeon HD 6900 Series</MName>
+</did>
+<did id="671D">
+<MName>AMD Radeon HD 6900 Series</MName>
+</did>
+<did id="671F">
+<MName>AMD Radeon HD 6900 Series</MName>
+</did>
+<did id="6720">
+<MName>AMD Radeon HD 6900M Series</MName>
+</did>
+<did id="6721">
+<MName>Mobility Radeon HD 6000 series</MName>
+</did>
+<did id="6722">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6723">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6724">
+<MName>Mobility Radeon HD 6000 series</MName>
+</did>
+<did id="6725">
+<MName>Mobility Radeon HD 6000 series</MName>
+</did>
+<did id="6726">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6727">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6728">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6729">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6738">
+<MName>AMD Radeon HD 6800 Series</MName>
+</did>
+<did id="6739">
+<MName>AMD Radeon HD 6800 Series</MName>
+</did>
+<did id="673E">
+<MName>AMD Radeon HD 6800 Series</MName>
+</did>
+<did id="6740">
+<MName>AMD Radeon HD 6700M Series</MName>
+</did>
+<did id="6741">
+<MName>AMD Radeon 6600M and 6700M Series</MName>
+</did>
+<did id="6742">
+<MName>AMD Radeon HD 7500/7600 Series</MName>
+</did>
+<did id="6743">
+<MName>AMD Radeon E6760</MName>
+</did>
+<did id="6744">
+<MName>AMD Mobility Radeon HD 6000 series</MName>
+</did>
+<did id="6746">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6747">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6748">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6749">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="674A">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6750">
+<MName>AMD Radeon HD 6600A Series</MName>
+</did>
+<did id="6751">
+<MName>AMD Radeon HD 7600A Series</MName>
+</did>
+<did id="6758">
+<MName>AMD Radeon HD 6670</MName>
+</did>
+<did id="6759">
+<MName>AMD Radeon HD 6570</MName>
+</did>
+<did id="675B">
+<MName>AMD Radeon HD 7600 Series</MName>
+</did>
+<did id="675D">
+<MName>AMD Radeon HD 7500 Series</MName>
+</did>
+<did id="675F">
+<MName>AMD Radeon HD 5500 Series</MName>
+</did>
+<did id="6760">
+<MName>AMD Radeon HD 7400M Series</MName>
+</did>
+<did id="6761">
+<MName>AMD Radeon HD 6430M</MName>
+</did>
+<did id="6762">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6763">
+<MName>AMD Radeon E6460</MName>
+</did>
+<did id="6764">
+<MName>Mobility Radeon HD 6000 series</MName>
+</did>
+<did id="6765">
+<MName>Mobility Radeon HD 6000 series</MName>
+</did>
+<did id="6766">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6767">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6768">
+<MName>ATI FirePro V (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6770">
+<MName>AMD Radeon HD 6400 Series</MName>
+</did>
+<did id="6771">
+<MName>AMD Radeon(TM) HD8490</MName>
+</did>
+<did id="6772">
+<MName>AMD Radeon HD 7400A Series</MName>
+</did>
+<did id="6778">
+<MName>AMD Radeon HD 7000 series</MName>
+</did>
+<did id="6779">
+<MName>AMD Radeon HD 6450</MName>
+</did>
+<did id="677B">
+<MName>AMD Radeon HD 7400 Series</MName>
+</did>
+<did id="6840">
+<MName>AMD Radeon HD 7600M Series</MName>
+</did>
+<did id="6841">
+<MName>AMD Radeon HD 7500M/7600M Series</MName>
+</did>
+<did id="6842">
+<MName>AMD Radeon HD 7000M Series</MName>
+</did>
+<did id="6843">
+<MName>AMD Radeon HD 7670M</MName>
+</did>
+<did id="6849">
+<MName>AMD Radeon HD 7400 Series</MName>
+</did>
+<did id="684C">
+<MName>ATI FirePro V(FireGL V) Graphics Adapter</MName>
+</did>
+<did id="6850">
+<MName>AMD Radeon HD 7400 Series</MName>
+</did>
+<did id="6858">
+<MName>AMD Radeon HD 7400 Series</MName>
+</did>
+<did id="6859">
+<MName>AMD Radeon HD 7400 Series</MName>
+</did>
+<did id="6880">
+<MName>EG LEXINGTON</MName>
+</did>
+<did id="6888">
+<MName>ATI FirePro V8800 (FireGL) Graphics Adapter</MName>
+</did>
+<did id="6889">
+<MName>ATI FirePro V7800 (FireGL) Graphics Adapter</MName>
+</did>
+<did id="688A">
+<MName>ATI FirePro V9800 (FireGL) Graphics Adapter</MName>
+</did>
+<did id="688C">
+<MName>AMD FireStream 9370</MName>
+</did>
+<did id="688D">
+<MName>AMD FireStream 9350</MName>
+</did>
+<did id="6898">
+<MName>AMD Radeon HD 5800 Series</MName>
+</did>
+<did id="6899">
+<MName>AMD Radeon HD 5800 Series</MName>
+</did>
+<did id="689B">
+<MName>AMD Radeon HD 6800 Series</MName>
+</did>
+<did id="689C">
+<MName>AMD Radeon HD 5900 Series</MName>
+</did>
+<did id="689D">
+<MName>AMD Radeon HD 5900 Series</MName>
+</did>
+<did id="689E">
+<MName>AMD Radeon HD 5800 Series</MName>
+</did>
+<did id="68A0">
+<MName>AMD Mobility Radeon HD 5800 Series</MName>
+</did>
+<did id="68A1">
+<MName>AMD Mobility Radeon HD 5800 Series</MName>
+</did>
+<did id="68A8">
+<MName>AMD Radeon HD 6800M Series</MName>
+</did>
+<did id="68A9">
+<MName>ATI FirePro V5800 (FireGL) Graphics Adapter</MName>
+</did>
+<did id="68B0">
+<MName>AMD Mobility Radeon HD 5800 Series</MName>
+</did>
+<did id="68B8">
+<MName>AMD Radeon HD 5700 Series</MName>
+</did>
+<did id="68B9">
+<MName>AMD Radeon HD 5600/5700</MName>
+</did>
+<did id="68BA">
+<MName>AMD Radeon HD 6700 Series</MName>
+</did>
+<did id="68BE">
+<MName>AMD Radeon HD 5700 Series</MName>
+</did>
+<did id="68BF">
+<MName>AMD Radeon HD 6700 Series</MName>
+</did>
+<did id="68C0">
+<MName>AMD Mobility Radeon HD 5000</MName>
+</did>
+<did id="68C1">
+<MName>AMD Mobility Radeon HD 5000 Series</MName>
+</did>
+<did id="68C7">
+<MName>AMD Mobility Radeon HD 5570</MName>
+</did>
+<did id="68C8">
+<MName>ATI FirePro V4800 (FireGL) Graphics Adapter</MName>
+</did>
+<did id="68C9">
+<MName>ATI FirePro 3800 (FireGL) Graphics Adapter</MName>
+</did>
+<did id="68D8">
+<MName>AMD Radeon HD 5670</MName>
+</did>
+<did id="68D9">
+<MName>AMD Radeon HD 5570</MName>
+</did>
+<did id="68DA">
+<MName>AMD Radeon HD 5500 Series</MName>
+</did>
+<did id="68DE">
+<MName>EG REDWOOD</MName>
+</did>
+<did id="68E0">
+<MName>AMD Mobility Radeon HD 5000 Series</MName>
+</did>
+<did id="68E1">
+<MName>AMD Mobility Radeon HD 5000 Series</MName>
+</did>
+<did id="68E4">
+<MName>AMD Radeon HD 6300M Series</MName>
+</did>
+<did id="68E5">
+<MName>AMD Radeon HD 6300M Series</MName>
+</did>
+<did id="68E8">
+<MName>EG CEDAR</MName>
+</did>
+<did id="68E9">
+<MName>ATI FirePro (FireGL) Graphics Adapter</MName>
+</did>
+<did id="68F1">
+<MName>ATI FirePro (FireGL) Graphics Adapter</MName>
+</did>
+<did id="68F2">
+<MName>AMD FirePro 2270 (ATI FireGL)</MName>
+</did>
+<did id="68F8">
+<MName>EG CEDAR</MName>
+</did>
+<did id="68F9">
+<MName>AMD Radeon HD 5450</MName>
+</did>
+<did id="68FA">
+<MName>AMD Radeon HD 7300 Series</MName>
+</did>
+<did id="68FE">
+<MName>EG CEDAR</MName>
+</did>
+<did id="964E">
+<MName>SUMO 964E</MName>
+</did>
+<did id="964F">
+<MName>SUMO 964F</MName>
+</did>
+<did id="9900">
+<MName>AMD Radeon HD 7660G</MName>
+</did>
+<did id="9901">
+<MName>AMD Radeon HD 7660D</MName>
+</did>
+<did id="9903">
+<MName>AMD Radeon HD 7640G</MName>
+</did>
+<did id="9904">
+<MName>AMD Radeon HD 7560D</MName>
+</did>
+<did id="9905">
+<MName>ATI FirePro A300 Series(FireGL V) Graphics Adapter</MName>
+</did>
+<did id="9906">
+<MName>AMD FirePro A300 Series (FireGL V) Graphics Adapter</MName>
+</did>
+<did id="9907">
+<MName>AMD Radeon HD 7620G</MName>
+</did>
+<did id="9908">
+<MName>AMD Radeon HD 7600G</MName>
+</did>
+<did id="9909">
+<MName>AMD Radeon HD 7500G</MName>
+</did>
+<did id="990A">
+<MName>AMD Radeon HD 7500G</MName>
+</did>
+<did id="990B">
+<MName>AMD Radeon HD 8650G</MName>
+</did>
+<did id="990C">
+<MName>AMD Radeon HD 8670D</MName>
+</did>
+<did id="990D">
+<MName>AMD Radeon HD 8550G</MName>
+</did>
+<did id="990E">
+<MName>AMD Radeon HD 8570D</MName>
+</did>
+<did id="990F">
+<MName>AMD Radeon HD 8610G</MName>
+</did>
+<did id="9910">
+<MName>AMD Radeon HD 7660G</MName>
+</did>
+<did id="9913">
+<MName>AMD Radeon HD 7640G</MName>
+</did>
+<did id="9917">
+<MName>AMD Radeon HD 7620G</MName>
+</did>
+<did id="9918">
+<MName>AMD Radeon HD 7600G</MName>
+</did>
+<did id="9919">
+<MName>AMD Radeon HD 7500G</MName>
+</did>
+<did id="9990">
+<MName>AMD Radeon HD 7520G</MName>
+</did>
+<did id="9991">
+<MName>AMD Radeon HD 7540D</MName>
+</did>
+<did id="9992">
+<MName>AMD Radeon HD 7420G</MName>
+</did>
+<did id="9993">
+<MName>AMD Radeon HD 7480D</MName>
+</did>
+<did id="9994">
+<MName>AMD Radeon HD 7400G</MName>
+</did>
+<did id="9995">
+<MName>AMD Radeon HD 8450G</MName>
+</did>
+<did id="9996">
+<MName>AMD Radeon HD 8470D</MName>
+</did>
+<did id="9997">
+<MName>AMD Radeon HD 8350G</MName>
+</did>
+<did id="9998">
+<MName>AMD Radeon HD 8370D</MName>
+</did>
+<did id="9999">
+<MName>AMD Radeon HD 8510G</MName>
+</did>
+<did id="999A">
+<MName>AMD Radeon HD 8410G</MName>
+</did>
+<did id="999B">
+<MName>AMD Radeon HD 8310G</MName>
+</did>
+<did id="999C">
+<MName>AMD Radeon HD 8650D</MName>
+</did>
+<did id="999D">
+<MName>AMD Radeon HD 8550D</MName>
+</did>
+<did id="99A0">
+<MName>AMD Radeon HD 7520G</MName>
+</did>
+<did id="99A2">
+<MName>AMD Radeon HD 7420G</MName>
+</did>
+<did id="99A4">
+<MName>AMD Radeon HD 7400G</MName>
+</did>
+<did id="9640">
+<MName>AMD Radeon HD 6550D</MName>
+</did>
+<did id="9641">
+<MName>AMD Radeon HD 6620G</MName>
+</did>
+<did id="9642">
+<MName>AMD Radeon HD 6370D</MName>
+</did>
+<did id="9643">
+<MName>AMD Radeon HD 6380G</MName>
+</did>
+<did id="9644">
+<MName>AMD Radeon HD 6410D</MName>
+</did>
+<did id="9645">
+<MName>AMD Radeon HD 6410D</MName>
+</did>
+<did id="9647">
+<MName>AMD Radeon HD 6520G</MName>
+</did>
+<did id="9648">
+<MName>AMD Radeon HD 6480G</MName>
+</did>
+<did id="9649">
+<MName>AMD Radeon(TM) HD 6480G</MName>
+</did>
+<did id="964A">
+<MName>AMD Radeon HD 6530D</MName>
+</did>
+<did id="9802">
+<MName>AMD Radeon HD 6310 Graphics</MName>
+</did>
+<did id="9803">
+<MName>AMD Radeon HD 6310 Graphics</MName>
+</did>
+<did id="9804">
+<MName>AMD Radeon HD 6250 Graphics</MName>
+</did>
+<did id="9805">
+<MName>AMD Radeon HD 6250 Graphics</MName>
+</did>
+<did id="9806">
+<MName>AMD Radeon HD 6320 Graphics</MName>
+</did>
+<did id="9807">
+<MName>AMD Radeon HD 6290 Graphics</MName>
+</did>
+<did id="9808">
+<MName>AMD Radeon HD 7340 Graphics</MName>
+</did>
+<did id="9809">
+<MName>AMD Radeon HD 7310 Graphics</MName>
+</did>
+<did id="980A">
+<MName>AMD Radeon HD 7290 Graphics</MName>
+</did>  
+</ASIC>

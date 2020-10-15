@@ -1,0 +1,18 @@
+################################################################
+## This will contain all of the supported OS Service Packages ##
+##                                                            ##
+## The format is as follows:                                  ##
+## [OS].[Major].[Minor]=[Value]                               ##
+## [OS] == values from OS.Dat                                 ##
+## [value]==N means no checks required                        ##
+################################################################
+
+#Use this for no service package required
+None=000
+
+#Service packages required for Windows XP , service pack 2
+Service Pack 1=001
+Service Pack 2=002
+Service Pack 3=003
+Service Pack 4=004
+
