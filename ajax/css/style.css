@@ -1,0 +1,32 @@
+/* Start Main Style  */
+body{
+	background: #F4F4F4;
+	font-size: 18px;
+	height: 3000px;
+}
+h1{
+	font-size: 40px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	font-weight: bold;
+	color: #666;
+}
+#myinfo{
+	margin: 0 auto;
+	width: 500px;
+	height: 200px;
+	border:2px solid #000;
+	padding: 20px;
+}
+.Form{
+	width: 500px;
+	display: inline;
+}
+.Form input{
+	margin: 0 auto;
+	margin-left: 20px;
+	margin-bottom: 30px;
+}
+table{
+	margin-top: 15px;
+}
