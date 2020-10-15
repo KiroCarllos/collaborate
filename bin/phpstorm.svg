@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="phpstorm-b" x1="48.734%" x2="1.528%" y1="21.086%" y2="48.073%">
+      <stop offset="0%" stop-color="#FF318C"/>
+      <stop offset="100%" stop-color="#B74AF7"/>
+    </linearGradient>
+    <polygon id="phpstorm-a" points="10.9 0 0 12.3 34 29.7 36.2 13.9 33.2 4.8"/>
+    <linearGradient id="phpstorm-d" x1="66.765%" x2="28.374%" y1="15.184%" y2="91.188%">
+      <stop offset="0%" stop-color="#FF318C"/>
+      <stop offset="23.556%" stop-color="#B74AF7"/>
+      <stop offset="100%" stop-color="#6B57FF"/>
+    </linearGradient>
+    <polygon id="phpstorm-c" points="6.1 49 25.599 48.8 25.599 37.799 24.9 18.801 0 12.301"/>
+    <linearGradient id="phpstorm-f" x1="58.223%" x2="92.409%" y1="28.789%" y2="76.533%">
+      <stop offset="0%" stop-color="#B74AF7"/>
+      <stop offset="100%" stop-color="#6B57FF"/>
+    </linearGradient>
+    <polygon id="phpstorm-e" points="21.4 22.4 20.2 37.499 32.3 42.999 41.2 33.799 55.3 36.1 64 27.499 55.7 6.8 39.5 3.8"/>
+    <linearGradient id="phpstorm-h" x1="55.522%" x2="77.686%" y1="61.374%" y2="85.714%">
+      <stop offset="0%" stop-color="#B74AF7"/>
+      <stop offset="100%" stop-color="#6B57FF"/>
+    </linearGradient>
+    <polygon id="phpstorm-g" points="13.5 26.9 18.499 56.499 40.1 64 64 49.7 39.5 3.8"/>
+    <linearGradient id="phpstorm-j" x1="50%" x2="50%" y1="-11.618%" y2="60.589%">
+      <stop offset="0%" stop-color="#A6A5A5"/>
+      <stop offset="0%" stop-color="#989898" stop-opacity=".568"/>
+      <stop offset="100%"/>
+    </linearGradient>
+    <polygon id="phpstorm-i" points="0 40 40 40 40 0 0 0"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#B74AF7" xlink:href="#phpstorm-a"/>
+    <use fill="url(#phpstorm-b)" xlink:href="#phpstorm-a"/>
+    <use fill="#B74AF7" xlink:href="#phpstorm-c"/>
+    <use fill="url(#phpstorm-d)" xlink:href="#phpstorm-c"/>
+    <use fill="#B74AF7" xlink:href="#phpstorm-e"/>
+    <use fill="url(#phpstorm-f)" xlink:href="#phpstorm-e"/>
+    <use fill="#B74AF7" xlink:href="#phpstorm-g"/>
+    <use fill="url(#phpstorm-h)" xlink:href="#phpstorm-g"/>
+    <g transform="translate(12 12)">
+      <use fill="#000" xlink:href="#phpstorm-i"/>
+      <use fill="url(#phpstorm-j)" xlink:href="#phpstorm-i"/>
+      <polygon fill="#FFF" points="4 35 19 35 19 32.5 4 32.5"/>
+      <path fill="#FFF" d="M18.4277 19.5254L20.6307 16.8884C22.1547 18.1454 23.7537 18.9444 25.6867 18.9444 27.2137 18.9444 28.1327 18.3394 28.1327 17.3454L28.1327 17.2974C28.1327 16.3554 27.5517 15.8704 24.7197 15.1464 21.3077 14.2754 19.1037 13.3284 19.1037 9.9674L19.1037 9.9164C19.1037 6.8454 21.5737 4.8094 25.0337 4.8094 27.5037 4.8094 29.6087 5.5854 31.3257 6.9644L29.3897 9.7724C27.8897 8.7304 26.4137 8.1024 24.9867 8.1024 23.5587 8.1024 22.8067 8.7544 22.8067 9.5784L22.8067 9.6264C22.8067 10.7394 23.5347 11.1054 26.4617 11.8524 29.8987 12.7484 31.8347 13.9844 31.8347 16.9364L31.8347 16.9834C31.8347 20.3484 29.2697 22.2334 25.6147 22.2334 23.0497 22.2334 20.4597 21.3384 18.4277 19.5254M10.478 13.5732C12.285 13.5732 13.341 12.4562 13.341 10.9982L13.341 10.9502C13.341 9.2742 12.215 8.3762 10.407 8.3762L7.614 8.3762 7.614 13.5732 10.478 13.5732zM4 5.0002L10.713 5.0002C14.632 5.0002 17.002 7.4042 17.002 10.8772L17.002 10.9262C17.002 14.8592 14.045 16.9002 10.36 16.9002L7.614 16.9002 7.614 22.0002 4 22.0002 4 5.0002z"/>
+    </g>
+  </g>
+</svg>

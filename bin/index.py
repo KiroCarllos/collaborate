@@ -1,49 +1,12 @@
 import sys
 import sqlite3
 from PyQt5.QtGui import *
-from PyQt5 import QtCore
-import xlwt as xlwt
-from PyQt5.QtWidgets import *
-from PyQt5.uic import loadUiType
-import time
-
-MainUI, _ = loadUiType('App.ui')
-MainUI2, _ = loadUiType('Aftkad.ui')
-MainUI3, _ = loadUiType('Registration.ui')
-
-
-class Main(QMainWindow, MainUI):
-    def __init__(self, parent=None):
-        super(Main, self).__init__(parent)
-        QMainWindow.__init__(self)
-        self.setupUi(self)
-        # Method for handle all Buttons
-        self.Handle_Buttons()
-        self.Search_Family_Data()
 
 
     def Handle_Buttons(self):
         ''' Show Data in Table Serves'''
 
-        self.Show_Father_Works()
-        self.Show_Mother_Works()
-        self.Show_Sons_Works()
-        self.Show_Sons_Study()
-        self.Show_Streets()
-        self.Show_Added_Serves()
-        self.Update_Father_Tab()
-        self.Update_Mother_Tabs()
-        self.Update_Sons_Tabs()
 
-        # =============================== Main Tabs in App
-        # Open Main Program Tab
-        self.Open_Tab_Akwet_El_Rab()
-        # Button Pass To Program
-        self.pushButton_3.clicked.connect(self.Open_Main_Page)
-        # Buttons Back To Main Page Of Program
-        # In Add Family Tab
-        self.pushButton_34.clicked.connect(self.Open_Main_Page)
-        self.pushButton_35.clicked.connect(self.Open_Main_Page)
         self.pushButton_35.clicked.connect(self.Clear_All_LineEdits_Of_Family_MArmals)
 
         self.pushButton_36.clicked.connect(self.Open_Main_Page)
