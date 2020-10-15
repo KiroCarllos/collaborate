@@ -1,0 +1,15 @@
+######################################################################
+## This will contain all of the supported Install Packages Category ##
+##                                                                  ##
+## The format is as follows:                                        ##
+## [Name]=[Value]                                                   ##
+######################################################################
+
+None=000
+Drivers=001
+Applications=002
+Installer=003
+Decoders=004
+Encoders=005
+3rdParty=006
+ExecCmd=007

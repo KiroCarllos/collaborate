@@ -1,0 +1,76 @@
+############################################
+## This will contain all of the supported ## 
+## OS Major Packages                      ##
+##                                        ##
+## The format is as follows:              ##
+## [OS];Major=[value]                     ##
+## [OS] == values from OS.Dat             ##
+## [value]==N means no checks required    ##
+############################################
+
+# All the Major version list, use None as no checks
+# The form is of xx.yyzz, where xx denotes the major version
+# yy denotes the minor version and zz are special case listed below
+# zz = 0U minimun os requirememt
+# zz = 01 implies AMD 64bit processor
+# zz = 02 implies Intel 64bit processor
+# zz = 03 implies AMD 64bit and 32bit processor
+# Note: Windows Vista 64bit (AMD (Legacy)) are for entries that has pid's that was generated before vista 64bit was tested, hence the
+# entries in the table did not reflect the proper version.
+A;All=00.0000
+W;All=00.0000
+W;Windows 95=04.0000
+W;Windows 98=04.1000
+W;Windows Me=04.9000 
+W;Windows NT 3.51=03.5100
+W;Windows NT 4.0=04.0000
+W;Windows 2000=05.0000 
+W;Windows XP=05.0100
+W;Windows Vista=06.0000
+W;Windows Server 2003 32bit=05.0110
+W;Windows Server 2003 64bit=05.0111
+W;Windows Server 2008 32bit=06.0010
+W;Windows Server 2008 64bit=06.0011
+W;Windows Server 2008 R2 64bit=06.0111
+W;Windows 8 Server 64bit=06.0211
+W;Windows 2000 and Up=05.000U
+W;Windows XP 64bit (AMD)=05.0201
+W;Windows XP 64bit (Intel)=05.0202
+W;Windows Vista 64bit (AMD)=06.0001
+W;Windows Vista 64bit (AMD (Legacy))=06.0100
+W;Windows Vista 32-64bit (AMD)=06.0003
+W;Windows XP and up 32bit=05.0U00
+W;Windows XP and up 64bit=05.0U01
+W;Windows XP and up 32-64bit=05.0U03
+W;Windows7 32bit=06.0100
+W;Windows7 64bit=06.0101
+W;Windows7 32-64bit=06.0103
+W;Windows8 32bit=06.0200
+W;Windows8 64bit=06.0201
+W;Windows8 32-64bit=06.0203
+W;WindowsBlue 32bit=06.0300
+W;WindowsBlue 64bit=06.0301
+W;WindowsBlue 32-64bit=06.0303
+W;WindowsThreshold 32bit=10.0000
+W;WindowsThreshold 64bit=10.0001
+W;WindowsThreshold 32-64bit=10.0003
+W;Windows Vista and up 32bit=06.0U00
+W;Windows Vista and up 64bit=06.0U01
+W;Windows Vista and up 32-64bit=06.0U03
+W;Windows 7 and up 32bit=06.1U00
+W;Windows 7 and up 64bit=06.1U01
+W;Windows 7 and up 32-64bit=06.1U03
+W;Windows 8 and up 32bit=06.2U00
+W;Windows 8 and up 64bit=06.2U01
+W;Windows 8 and up 32-64bit=06.2U03
+W;WindowsBlue and up 32bit=06.3U00
+W;WindowsBlue and up 64bit=06.3U01
+W;WindowsBlue and up 32-64bit=06.3U03
+W;WindowsThreshold and up 32bit=10.0U00
+W;WindowsThreshold and up 64bit=10.0U01
+W;WindowsThreshold and up 32-64bit=10.0U03
+L;All=00.0000
+L;RedHat=01.0000
+M;All=00.0000
+M;OS X=10.0000
+

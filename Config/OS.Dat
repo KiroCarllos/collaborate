@@ -1,0 +1,11 @@
+######################################
+## This will contain all of the OEM ##
+##                                  ##
+## The format is as follows:        ##
+## [Name]=[Value]                   ##
+######################################
+
+All=A
+MS Windows=W
+Linux=L
+Apple=M
