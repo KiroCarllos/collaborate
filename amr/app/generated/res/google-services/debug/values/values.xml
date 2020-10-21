@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">665265420767-sa0iholbqler457vj3525f82jqk7mkq7.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://myproject-7ceda.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">665265420767</string>
+    <string name="google_api_key" translatable="false">AIzaSyAq3AROXknm4wE2krVqGeHVfWsG0iwMCAk</string>
+    <string name="google_app_id" translatable="false">1:665265420767:android:aba94921a1dbe4d3136c6a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAq3AROXknm4wE2krVqGeHVfWsG0iwMCAk</string>
+    <string name="google_storage_bucket" translatable="false">myproject-7ceda.appspot.com</string>
+    <string name="project_id" translatable="false">myproject-7ceda</string>
+</resources>
