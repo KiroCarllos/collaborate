@@ -1,0 +1,46 @@
+<resources>
+    <string name="api_key">api_key</string>
+    <string name="app_name">My Trip Planner</string>
+    <string name="btn_login_txt">LogIn</string>
+    <string name="btn_sign_with_goole_text"> SignUp using Google \t</string>
+    <string name="btn_signup_txt">SignUp</string>
+    <string name="et_username_hint">\t Name</string>
+    <string name="et_email_hin">\t E-mail</string>
+    <string name="et_password_hint">\t Password</string>
+    <string name="tv_signup_create_account">Create Account</string>
+    <string name="todo">TODO</string>
+    <string name="trip_name">Trip Name :</string>
+    <string name="start_point">Start Point :</string>
+    <string name="end_point">End Point :</string>
+    <string name="notes">Notes :</string>
+    <string name="time_date">Time/Date :</string>
+    <string name="trip_statues">Trip Statues :</string>
+    <string name="start_trip">Start Trip</string>
+    <string name="edit">Edit</string>
+    <string name="done">Done</string>
+    <string name="round_trip">Round Trip</string>
+    <string name="login_usig_google">LogIn Using Google</string>
+    <string name="signup_here">Don\'t have an account.? SignUp here</string>
+    <string name="start_details">Start Details</string>
+    <string name="date">Date:</string>
+    <string name="time">Time:</string>
+    <string name="add_trip">Add Trip</string>
+    <string name="Trip_Type">Trip Type</string>
+    <string name="add_your_notes">Trip Notes</string>
+    <string name="max_ten_note">Max Ten Note</string>
+    <string name="tv_notes">Notes</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_past">Past Trips</string>
+    <string name="menu_logout">LogOut</string>
+    <string name="delet_trip">Delete</string>
+    <string name="add_notes">+Add notes</string>
+    <string name="view_notes">Notes</string>
+</resources>
